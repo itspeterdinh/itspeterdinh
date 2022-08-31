@@ -15,7 +15,7 @@ Solving problems on Leetcode, CodeSignal\
 Festival-goer, EDM-lover 🎵 \
 Love hiking, camping, roadtripping 🏕️ 
 ### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/peterdinh94/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/peterdinh94/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **peter-dinh-94/peter-dinh-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
