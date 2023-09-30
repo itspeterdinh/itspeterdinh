@@ -1,16 +1,8 @@
 ### 👋 Hi there, I am Peter
-A senior student in Computer Science at San Jose Sate University 💻\
-A self-driven individual who is always thrilled for new challenges 👀
+An embedded software engineer at Nuvoton Technology Corporation 💻\
+A freelance software engineer at <a href="https://dev-is-unpredictable-v3.oneamo.com/" target="_blank" rel="noopener noreferrer">AI-powered mortgage platform - OneAmo</a>
 ### 😄 Pronouns: He/Him
-### 🔭 I’m currently learning on
-Fullstack developing (Nodejs, React, Express, and MongoDB)\
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />\
-Solving problems on Leetcode, CodeSignal\
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-<img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" />
+
 ### ⚡ Fun fact:
 Festival-goer, EDM-lover 🎵 \
 Love hiking, camping, roadtripping 🏕️ 
