@@ -1,6 +1,5 @@
 ### 👋 Hi there, I am Peter
 An embedded software engineer at Nuvoton Technology Corporation 💻\
-A freelance software engineer at <a href="https://dev-is-unpredictable-v3.oneamo.com/" target="_blank" rel="noopener noreferrer">AI-powered mortgage platform - OneAmo</a>
 ### 😄 Pronouns: He/Him
 
 ### ⚡ Fun fact:
